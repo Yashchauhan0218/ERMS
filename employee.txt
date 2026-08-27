@@ -3,3 +3,4 @@ Employee_Name: Ram
 Department: xyz
 Designation: abc
 Salary: 3000
+Record: 10
